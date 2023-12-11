@@ -76,3 +76,10 @@ And, if you really hate all of them, there's a sub-option "Web app
 server running in your own home that is not accessible from the wider
 Internet," which replaces the security vulnerability con with
 "connectivity issues are likely."
+
+Once you finally have your server worked out, you'll probably notice
+pretty quickly that you want to have some sort of authentication or
+user account system, so that not just anybody can poke your server,
+and you can do things like identify users so you don't conflate their
+actions. [Unfortunately, login systems are an even bigger
+hassle.](logins.html)
