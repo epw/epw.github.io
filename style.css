@@ -15,3 +15,7 @@ button, input[type="button"] {
 h1 {
     text-align: center;
 }
+
+ul {
+    padding-left: 1em;
+}
