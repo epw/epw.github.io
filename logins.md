@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/style.css">
 
-# Logins: Simple, Secure, Private - Pick One If You're Lucky
+# Logins: Simple, Secure, Private - Pick One (If You're Lucky)
 
 Say you finally have a [server](servers.html) for a little personal project. Maybe you can push a button on a webpage or app and the push will be recorded. It works so well that you want to share it with one other person.
 
@@ -124,7 +124,7 @@ Here are all the possibilities I know of.
     - There's no password to leak even by accident
   - Cons
     - I haven't finished the [library](https://github.com/epw/hoba-tools) that would make this easy
-    - TLS security is extremely hard to get write when written by hand, which is required when there isn't a functioning library
+    - TLS security is extremely hard to get right when written by hand, which is required when there isn't a functioning library
     - Logging into a new device usually requires a device with a working login for the user, or else requires something like the email, text, or secret link options above.
     - Users won't be used to this and won't find it natural
 - FIDO/WebAuthn/Web Authentication
@@ -147,6 +147,6 @@ My general advice:
 - Otherwise, I'd recommend the authenticator app code system, even though it isn't used very commonly yet. It gets you much of the ease of usernames and passwords, without a number of the hidden gotchas.
 - If you end up writing your own username/password system, at least now you have more of a sense of why even though that's bad, all the other options are too.
 
-Closing thoughts:
+### Closing thoughts
 
 It's conceivable that one day, there could be a library that is relatively simple to drop into a website, with a few files implementing a login page, secure (likely key-based) account management system, and a simple file-based database, so that the rest of the site can just call a few library functions to query the database and check that a given Web request comes from a logged-in user. At the time of writing (December 2023), the closest things are probably OAuth2 libraries, which the author clearly dislikes after years of struggling with their complexity. Hopefully one or more projects will be completed so that by the end of the decade, aspiring Web developers will have a few good options with clear tradeoffs.
