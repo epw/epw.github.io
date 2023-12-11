@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # A Personal Server is All About Tradeoffs
 
 Let's say you have a cool idea, and all you need for it is to be able
