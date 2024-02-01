@@ -1,0 +1,29 @@
+# Getting Around Boston
+
+## Orientating
+
+Boston is both the capital of Massachusetts and the largest city, so a lot in the state revolves around it. The cities around Boston are collectively known as "Greater Boston", whose boundaries are up for debate but may go out as far as the "loop" of highway that is route 95/128. At the same time, the part of Boston that people often mean when they say "Boston" is fairly small, maybe one mile by two miles, and easily walked. In addition, there are many "neighborhoods" within the official city limits of Boston (sometimes called "Boston proper") that will seem like their own towns, such as Allston and Dorchester, with addresses that may or may not reference Boston. Meanwhile you have other cities and towns in the immediate area that are independent, like Cambridge and Somerville. Just something to be aware of.
+
+In addition, note that "square" in the Boston area means "intersection", so expect many locations to be called "squares" and have nothing "square" about them. Kendall Square, for example, is the area in Cambridge around where Main St, Broadway, and Third St meet.
+
+I generally find that it's easiest to navigate in terms of what subway stop is most convenient, or a note about how something is in a given direction from a major city center if there are no useful stops. The bay, the part of the Atlantic Ocean that Boston is on, is also key for conceptualizing where things are, along with the two rivers, the Charles and the Mystic. And when all else fails, the highways, in the form of the north/south route of 93, the east/west spine of the state that is 90 ("the pike", as in turnpike but we always shorten it), and the "north/south" loop that is 95 and 128 which encircle the area, can be useful.
+
+## Getting Around/Transit
+
+We have a reasonable public transit system. I've heard it's about fourth best in the country, which unfortunately isn't saying much. Around 2023, the subway got majorly worse, as a result of persistent underinvestment and years of deferred maintenance. Hopefully within a couple years, things will be back to a normal that we complain about but still can rely on. As it is, plan to use it, but it's wise to have backup plans or know what you can miss.
+
+Transit is handled by a state-run organization called the MBTA (https://mbta.com). They run a subway (four color-coded lines, Red, Orange, Green, and Blue, collectively called "the T"), buses (identified by numbers, usually, and also the Silver Line, and three "CT" buses), ferries, and larger Commuter Rail trains that go far outside of Boston, even into Rhode Island. The T is supposed to be frequent enough that you can ignore its schedule and just expect a train to show up soon after you do; depending on the line, down to about 4 minutes between trains during rush hour for the busiest line, and up to 11 or so on Sundays for sparser lines. However, this is what has gotten particularly bad in the last few years, and you now might wait 20 minutes or more unexpectedly, on any line, at any time.
+
+Buses vary wildly in frequency, from 20 minute headways to over an hour and a half. In addition, their schedules seem to be little more than suggestions. Your best bet is to use https://transitapp.com for real-time bus tracking and use what is convenient in the moment. Also if you do have to use buses to commute, look up the Better Bus Project which will change many lines over the next 5 years or so.
+
+Everything shuts down a little after midnight, so don't get caught out too late.
+
+Get a CharlieCard when you can. They're plastic and use NFC and can be tapped to get into stations, buses, or onto subway cars, and are available at a few major stations like Downtown Crossing. You can also do everything just as easily by buying a CharlieTicket from a vending machine (the same vending machines that can fill up CharlieCards), a little piece of cardstock that has a magnetic strip. Passes are generally only worth it for a short trip where you'll travel a lot, or if you are taking the T every work day all month. There are 1-day passes for $11, 7-day passes for $22.50, and month-long passes for $90. Individual rides are $2.40 on the subway, $1.70 on a bus, and on the subway you normally don't pay for transfers between lines within the same station. One day we'll be able to pay by just tapping our phones, but that won't be until 2025 at the absolute earliest.
+
+The Commuter Rail has its own ticketing system, including a phone app. Expect to pay about $10 one way, with the actual amount depending on how far you go, and check the schedules carefully.
+
+There are rentable Bluebikes all over Boston and a few surrounding cities. The bikes are low quality but can be a useful way to get around more quickly. They have just started to introduce a few rentable ebikes, but you can't count on them being available when you need them, yet.
+
+In the core of Boston, like around South Station, Park Street, State Street, Downtown Crossing, up to Haymarket and Aquarium, it often can be better to just walk since they're closer than you might expect. Don't try to walk to Cambridge or Somerville, though, unless you really are choosing intentionally to have a very long walk. Also in Cambridge and Somerville, stations are more likely to be on the edges of the interesting places, rather than embedded deep within them (I'm still annoyed at where Union Square Station is, for example, compared to actual Union Square).
+
+Somerville in particular has a Community Path, a walking/biking path that runs down the length of the city. On the more affluent west side of Somerville, it is a wide, forested path dotted with benches and artwork. On the east side, where it only recently opened, it is a narrow concrete track next to train tracks with little shade. But, it's the most direct path to get from Lechmere to Davis Square, and takes you near many key parts of Somerville.
