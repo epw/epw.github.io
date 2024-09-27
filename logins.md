@@ -127,9 +127,9 @@ Here are all the possibilities I know of.
     - TLS security is extremely hard to get right when written by hand, which is required when there isn't a functioning library
     - Logging into a new device usually requires a device with a working login for the user, or else requires something like the email, text, or secret link options above.
     - Users won't be used to this and won't find it natural
-- FIDO/WebAuthn/Web Authentication
+- Passkeys/FIDO/WebAuthn/Web Authentication
   - _This is the hot new thing that involves physical USB or NFC "security keys" or sometimes a phone or fingerprint reader._
-  - _I don't understand this yet and can't evaluate it._
+  - _I don't understand this yet and have found it extremely hard to use as an individual developer._
 
 You could also add two-factor authentication to any of these, most likely passwords, but you'll have to figure out how you deliver the two-factor codes, which usually is equivalent to the email, text, or authenticator app options, and so adds all of their cons, in addition to the added inconvenience to the user of needing to switch apps or devices.
 
